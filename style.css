@@ -34,7 +34,7 @@ html{
     left: 0;
     position: absolute;
     background-color: black;
-    opacity: .7;
+    opacity: .8;
     z-index: -1;
 }
  #body h1{
