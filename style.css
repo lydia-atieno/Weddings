@@ -34,7 +34,7 @@ html{
     left: 0;
     position: absolute;
     background-color: black;
-    opacity: .6;
+    opacity: .8;
     z-index: -1;
 }
  #body h1{
@@ -52,7 +52,7 @@ html{
     align-items: center;
     justify-content: center;
     font-weight: 500;
-    font-size: 2rem;
+    font-size: 2.2rem;
     
     
     position: relative;
@@ -143,8 +143,8 @@ html{
     /*color: rgb(162, 247, 141);*/
     color: #AAFF00;
     letter-spacing: .1rem;
-    font-size: 1.6rem;
-    margin-left: 10px;
+    font-size: 1.8rem;
+    margin-left: ;
 }
 #header h3{
     color: #AAFF00;
@@ -196,7 +196,7 @@ html{
 }
 #header .hamburger{
     height: 60px;
-    width: 60px;
+    width: 75px;
     display: inline-block;
     /*border: 3px solid white;*/
     position: relative;
@@ -211,7 +211,7 @@ html{
 }
 #header .hamburger .bar{
     height: 5px ;
-    width: 50px;
+    width: 120px;
     position: relative;
     /*background-color: rgb(192, 250, 177);*/
     background-color: rgb(25, 194, 25);
