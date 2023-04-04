@@ -19,7 +19,7 @@ html{
 }
 /*Body Section*/
 #body{
-    background-image: url(https://github.com/lydia-atieno/Weddings/blob/master/img/2.jpg?raw=true);
+    background-image: url(https://github.com/lydia-atieno/Weddings/blob/master/img/1.jpg?raw=true);
     background-size: cover;
     background-position: center, center;
     position: relative;
@@ -34,7 +34,7 @@ html{
     left: 0;
     position: absolute;
     background-color: black;
-    opacity: .8;
+    opacity: .7;
     z-index: -1;
 }
  #body h1{
