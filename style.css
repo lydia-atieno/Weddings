@@ -34,7 +34,7 @@ html{
     left: 0;
     position: absolute;
     background-color: black;
-    opacity: .8;
+    opacity: .7;
     z-index: -1;
 }
  #body h1{
@@ -262,7 +262,7 @@ html{
 /*Footer Section*/
 #footer .footer{
     background-color: rgb(4, 42, 4);
-    height: 24vh;
+    height: 19vh;
     
 }
 #footer p{
