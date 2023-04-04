@@ -23,7 +23,7 @@ html{
     background-size: cover;
     background-position: center, center;
     position: relative;
-    height: 95vh;
+    height: 100vh;
     z-index: 1;
 }
 #body::after{
@@ -44,6 +44,7 @@ html{
     color: ;
     letter-spacing: .1rem;
     line-height: ;
+    margin-bottom: 50px;
     
 
 
@@ -262,7 +263,7 @@ html{
 /*Footer Section*/
 #footer .footer{
     background-color: rgb(4, 42, 4);
-    height: 19vh;
+    height: 23vh;
     
 }
 #footer p{
