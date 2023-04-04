@@ -1,0 +1,1043 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+
+html{
+    font-family: 'Great Vibes', cursive;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    /*background-color: #262626;*/
+    height: 1660vh;
+    width: px;
+    position: absolute;
+    margin: ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+}
+html{
+    background-color: rgb(4, 42, 4);
+    letter-spacing: .1rem;
+    
+}
+h1{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 20px;
+    font-size: 1.8rem;
+    color:#AAFF00;
+    font-weight: 500;
+    text-decoration: 1px underline;
+    
+}
+p{
+    color: #AAFF00;
+    font-style: italic;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+/*Couple1*/
+.image1{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple1{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c1.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(165,38,158,0.75);
+}
+.image1:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label1{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image1:hover .label1{
+    font-size: 0;
+    border: none;
+}
+/*End couple1*/
+
+/*Couple2*/
+.image2{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple2{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c2.jpg);
+    background-size: cover;
+    background-position: calc(100%);
+    box-shadow: inset 0 0 10px 200px rgba(28, 160, 28, 0.75);
+}
+.image2:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label2{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image2:hover .label2{
+    font-size: 0;
+    border: none;
+}
+
+/*End couple2*/
+
+/*Couple3*/
+
+.image3{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple3{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c3.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(147, 27, 39, 0.75);
+}
+.image3:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label3{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image3:hover .label3{
+    font-size: 0;
+    border: none;
+}
+/*End couple3*/
+
+/*Couple4*/
+
+.image4{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple4{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c4.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(32, 58, 171, 0.75);
+}
+.image4:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label4{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image4:hover .label4{
+    font-size: 0;
+    border: none;
+}
+/*End couple4*/
+
+/*Couple5*/
+
+.image5{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple5{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c5.jpg);
+    background-size: cover;
+    background-position: calc(50%);
+    box-shadow: inset 0 0 10px 200px rgba(180, 119, 28, 0.75);
+}
+.image5:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label5{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image5:hover .label5{
+    font-size: 0;
+    border: none;
+}
+/*End couple5*/
+
+/*couple6*/
+
+.image6{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple6{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c6.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(29, 175, 181, 0.75);
+}
+.image6:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label6{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image6:hover .label6{
+    font-size: 0;
+    border: none;
+}
+/*End couple6*/
+
+/*couple7*/
+
+.image7{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple7{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c7.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(165,38,158,0.75);
+}
+.image7:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label7{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image7:hover .label7{
+    font-size: 0;
+    border: none;
+}
+/*End couple7*/
+
+/*couple8*/
+.image8{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple8{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c8.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(99, 38, 165, 0.75);
+}
+.image8:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label8{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image8:hover .label8{
+    font-size: 0;
+    border: none;
+}
+/*End couple8*/
+
+/*couple9*/
+
+.image9{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple9{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c9.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(38, 159, 165, 0.75);
+}
+.image9:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label9{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image9:hover .label9{
+    font-size: 0;
+    border: none;
+}
+/*End couple9*/
+
+/*couple10*/
+
+.image10{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple10{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c10.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(115, 144, 27, 0.75);
+}
+.image10:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label10{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image10:hover .label10{
+    font-size: 0;
+    border: none;
+}
+/*End couple10*/
+
+/*couple11*/
+
+.image11{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple11{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c11.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(114, 38, 165, 0.75);
+}
+.image11:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label11{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image11:hover .label11{
+    font-size: 0;
+    border: none;
+}
+/*End couple11*/
+
+/*couple12*/
+
+.image12{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple12{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c12.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(38, 82, 165, 0.75);
+}
+.image12:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label12{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image12:hover .label12{
+    font-size: 0;
+    border: none;
+}
+/*End couple12*/
+
+/*couple13*/
+
+.image13{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple13{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c13.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(38, 165, 161, 0.75);
+}
+.image13:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label13{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image13:hover .label13{
+    font-size: 0;
+    border: none;
+}
+/*End couple13*/
+
+/*couple14*/
+
+.image14{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple14{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c14.jpg);
+    background-size: cover;
+    background-position: calc(100%);
+    box-shadow: inset 0 0 10px 200px rgba(154, 165, 38, 0.75);
+}
+.image14:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label14{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image14:hover .label14{
+    font-size: 0;
+    border: none;
+}
+/*End couple14*/
+
+/*couple15*/
+
+.image15{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple15{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c15.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(38, 165, 87, 0.75);
+}
+.image15:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label15{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image15:hover .label15{
+    font-size: 0;
+    border: none;
+}
+/*End couple15*/
+
+/*couple16*/
+.image16{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple16{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c16.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(165, 38, 59, 0.75);
+}
+.image16:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label16{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image16:hover .label16{
+    font-size: 0;
+    border: none;
+}
+/*End couple16*/
+
+/*couple17*/
+
+.image17{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple17{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c17.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(142, 38, 165, 0.75);
+}
+.image17:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label17{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image17:hover .label17{
+    font-size: 0;
+    border: none;
+}
+/*End couple17*/
+
+/*couple18*/
+
+.image18{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple18{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c18.jpg);
+    background-size: cover;
+    background-position: calc(100%);
+    box-shadow: inset 0 0 10px 200px rgba(38, 142, 165, 0.75);
+}
+.image18:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label18{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image18:hover .label18{
+    font-size: 0;
+    border: none;
+}
+/*End couple18*/
+
+/*couple19*/
+
+.image19{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple19{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c19.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(165, 38, 38, 0.75);
+}
+.image19:hover{
+    box-shadow: inset 0 0 0 0 rgba(255, 255, 255, 0.75);
+}
+.label19{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image19:hover .label19{
+    font-size: 0;
+    border: none;
+}
+/*End couple19*/
+
+/*couple20*/
+
+.image20{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple20{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c20.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(61, 38, 165, 0.75);
+}
+.image20:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label20{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image20:hover .label20{
+    font-size: 0;
+    border: none;
+}
+/*End couple20*/
+
+/*couple21*/
+
+.image21{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple21{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c21.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(38, 165, 116, 0.75);
+}
+.image21:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label21{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image21:hover .label21{
+    font-size: 0;
+    border: none;
+}
+/*End couple21*/
+
+/*couple22*/
+
+.image22{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple22{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c22.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(142, 165, 38, 0.75);
+}
+.image22:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label22{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image22:hover .label22{
+    font-size: 0;
+    border: none;
+}
+/*End couple22*/
+
+/*couple23*/
+
+.image23{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple23{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c23.jpg);
+    background-size: cover;
+    background-position: calc(50%);
+    box-shadow: inset 0 0 10px 200px rgba(91, 38, 165, 0.75);
+}
+.image23:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label23{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image23:hover .label23{
+    font-size: 0;
+    border: none;
+}
+/*End couple23*/
+
+/*couple24*/
+
+.image24{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple24{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c24.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(40, 165, 38, 0.75);
+}
+.image24:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label24{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image24:hover .label24{
+    font-size: 0;
+    border: none;
+}
+/*End couple24*/
+
+/*couple25*/
+
+.image25{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple25{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c25.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(137, 38, 165, 0.75);
+}
+.image25:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label25{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image25:hover .label25{
+    font-size: 0;
+    border: none;
+}
+/*End couple25*/
+
+/*couple26*/
+
+.image26{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple26{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c26.jpg);
+    background-size: cover;
+    background-position: calc(100%);
+    box-shadow: inset 0 0 10px 200px rgba(38, 165, 157, 0.75);
+}
+.image26:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label26{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image26:hover .label26{
+    font-size: 0;
+    border: none;
+}
+/*End couple26*/
+
+/*couple27*/
+
+.image27{
+    height: 400px;
+    width: 330px;
+    transition: 1.1s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.couple27{
+    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/c27.jpg);
+    background-size: cover;
+    background-position: calc(200%);
+    box-shadow: inset 0 0 10px 200px rgba(57, 38, 165, 0.75);
+}
+.image27:hover{
+    box-shadow: inset 0 0 0 0 rgba(255,255,255,0.75);
+}
+.label27{
+    color: #AAFF00;
+    height: 45px;
+    width: 150px;
+    font-size: 40px;
+    text-align: center;/*places the text at the center*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1.5px solid #AAFF00;
+    border-bottom: 1.5px solid #AAFF00;
+    transition: 0.5s;
+}
+.image27:hover .label27{
+    font-size: 0;
+    border: none;
+}
+/*End couple27*/

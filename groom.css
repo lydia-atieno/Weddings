@@ -1,0 +1,292 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+
+html{
+    font-family: 'Great Vibes', cursive;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 190vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(4, 42, 4);
+}
+h1{
+    margin-bottom: 0px;
+    color: #AAFF00;
+    font-weight: 500;
+    text-decoration: 1px underline;
+    letter-spacing: .1rem;
+}
+/*slider1 section*/
+.slider1{
+    position: relative;
+    width: 56%;
+    overflow: hidden;
+}
+.images1{
+    display: flex;
+    width: 101%;
+
+}
+.images1 img{
+    height: ;
+    width: ;
+    transition: all 1s ease;
+}
+.images1 input{
+    display: none;
+}
+.dots1{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+}
+.dots1 label{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: solid #AAFF00 3px;
+    cursor: pointer;
+    transition: all 1s ease;
+    margin: 5px;
+}
+.dots1 label:hover{
+    background: #fff;
+}
+#imga:checked ~ .ma{
+    margin-left: 0;
+}
+#imgb:checked ~ .mb{
+    margin-left: -100%;
+}
+#imgc:checked ~ .mc{
+    margin-left: -200%;
+}
+#imgd:checked ~ .md{
+    margin-left: -300%;
+}
+#imge:checked ~ .me{
+    margin-left: -400%;
+}
+/*End slider1*/
+
+/*slider2 section*/
+.slider2{
+    position: relative;
+    width: 54%;
+    overflow: hidden;
+}
+.images2{
+    display: flex;
+    width: 105%;
+
+}
+.images2 img{
+    height: ;
+    width: ;
+    transition: all 1s ease;
+}
+.images2 input{
+    display: none;
+}
+.dots2{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+}
+.dots2 label{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: solid #AAFF00 3px;
+    cursor: pointer;
+    transition: all 1s ease;
+    margin: 5px;
+}
+.dots2 label:hover{
+    background: #fff;
+}
+#imgf:checked ~ .mf{
+    margin-left: 0;
+}
+#imgg:checked ~ .mg{
+    margin-left: -100%;
+}
+#imgh:checked ~ .mh{
+    margin-left: -200%;
+}
+#imgi:checked ~ .mi{
+    margin-left: -300%;
+}
+#imgj:checked ~ .mj{
+    margin-left: -400%;
+}
+/*End slider2*/
+
+/*slider3*/
+.slider3{
+    position: relative;
+    width: 56%;
+    overflow: hidden;
+}
+.images3{
+    display: flex;
+    width: 100%;
+
+}
+.images3 img{
+    height: ;
+    width: ;
+    transition: all 1s ease;
+}
+.images3 input{
+    display: none;
+}
+.dots3{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+}
+.dots3 label{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: solid #AAFF00 3px;
+    cursor: pointer;
+    transition: all 1s ease;
+    margin: 5px;
+}
+.dots3 label:hover{
+    background: #fff;
+}
+#imgk:checked ~ .mk{
+    margin-left: 0;
+}
+#imgl:checked ~ .ml{
+    margin-left: -100%;
+}
+#imgm:checked ~ .mm{
+    margin-left: -200%;
+}
+#imgn:checked ~ .mn{
+    margin-left: -300%;
+}
+#imgo:checked ~ .mo{
+    margin-left: -400%;
+}
+/*End slider3*/
+/*slider4*/
+.slider4{
+    position: relative;
+    width: 55%;
+    overflow: hidden;
+}
+.images4{
+    display: flex;
+    width: 102%;
+
+}
+.images4 img{
+    height: ;
+    width: ;
+    transition: all 1s ease;
+}
+.images4 input{
+    display: none;
+}
+.dots4{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+}
+.dots4 label{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: solid #AAFF00 3px;
+    cursor: pointer;
+    transition: all 1s ease;
+    margin: 5px;
+}
+.dots4 label:hover{
+    background: #fff;
+}
+#imgp:checked ~ .mp{
+    margin-left: 0;
+}
+#imgq:checked ~ .mq{
+    margin-left: -100%;
+}
+#imgr:checked ~ .mr{
+    margin-left: -200%;
+}
+#imgs:checked ~ .ms{
+    margin-left: -300%;
+}
+#imgt:checked ~ .mt{
+    margin-left: -400%;
+}
+/*End slider4*/
+
+/*slider5*/
+
+.slider5{
+    position: relative;
+    width: 55%;
+    overflow: hidden;
+}
+.images5{
+    display: flex;
+    width: 102%;
+
+}
+.images5 img{
+    height: ;
+    width: ;
+    transition: all 1s ease;
+}
+.images5 input{
+    display: none;
+}
+.dots5{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+}
+.dots5 label{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: solid #AAFF00 3px;
+    cursor: pointer;
+    transition: all 1s ease;
+    margin: 5px;
+}
+.dots5 label:hover{
+    background: #fff;
+}
+#imgu:checked ~ .mu{
+    margin-left: 0;
+}
+#imgv:checked ~ .mv{
+    margin-left: -100%;
+}
+#imgw:checked ~ .mw{
+    margin-left: -200%;
+}
+#imgx:checked ~ .mx{
+    margin-left: -300%;
+}
+#imgy:checked ~ .my{
+    margin-left: -400%;
+}
+/*End slider5*/
