@@ -19,7 +19,7 @@ html{
 }
 /*Body Section*/
 #body{
-    background-image: url(file:///C:/Users/user/Desktop/Weddings/img/2.jpg);
+    background-image: url(https://github.com/lydia-atieno/Weddings/blob/master/img/2.jpg?raw=true);
     background-size: cover;
     background-position: center, center;
     position: relative;
